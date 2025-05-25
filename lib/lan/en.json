@@ -1,0 +1,50 @@
+{
+  "home": {
+    "welcomePageTitle": "General Knowledge Quiz",
+    "contestantNameHint": "Enter your name",
+    "numberOfQuestionsLabel": "Number of questions",
+    "selectCategoryLabel": "Select category",
+    "selectDifficultyLabel": "Select difficulty",
+    "startGameButton": "Start Quiz",
+    "propos": "About the App",
+    "userNameEmptyError": "Please enter your name first",
+    "option1": "Science & Nature",
+    "option2": "Animals",
+    "option3": "Video Games",
+    "option4": "Computers",
+    "option5": "Mathematics",
+    "option6": "Vehicles",
+    "option7": "Sports",
+    "diff1": "Easy",
+    "diff2": "Medium",
+    "diff3": "Hard"
+  },
+  "result": {
+    "quizResultsTitle": "Quiz Results",
+    "score": "Score",
+    "yourAnswer": "Your answer",
+    "correctAnswer": "Correct answer",
+    "seeLeaderboard": "See leaderboard"
+  }
+,
+  "leaderboard": {
+    "leaderboardTitle": "Leaderboard",
+    "selectCategoryLabel": "Select category",
+    "selectDifficultyLabel": "Select difficulty",
+    "homeButton": "Home",
+    "replayButton": "Replay"
+  },
+  "settings": {
+    "title": "Settings",
+    "darkMode": "Dark Mode",
+    "music": "Background Music",
+    "language": "Language",
+    "notificationHour": "Notification Time"
+  },
+  "notification": {
+    "title": "Daily Quiz Reminder",
+    "body": "It's time to take your daily quiz!"
+  }
+
+
+}

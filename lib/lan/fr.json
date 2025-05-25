@@ -1,0 +1,49 @@
+{
+  "home": {
+    "welcomePageTitle": "Quiz Culture Générale",
+    "contestantNameHint": "Entrez votre nom",
+    "numberOfQuestionsLabel": "Nombre de questions",
+    "selectCategoryLabel": "Choisir une catégorie",
+    "selectDifficultyLabel": "Choisir la difficulté",
+    "startGameButton": "Commencer le quiz",
+    "propos": "propos",
+    "userNameEmptyError": "Veuillez entrer votre nom d'abord",
+    "option1": "Science & Nature",
+    "option2": "Animaux",
+    "option3": "Jeux vidéo",
+    "option4": "Informatique",
+    "option5": "Mathématiques",
+    "option6": "Véhicules",
+    "option7": "Sports",
+    "diff1": "Facile",
+    "diff2": "Moyen",
+    "diff3": "Difficile"
+  },
+  "result": {
+    "quizResultsTitle": "Résultats du Quiz",
+    "score": "Score",
+    "yourAnswer": "Votre réponse",
+    "correctAnswer": "Bonne réponse",
+    "seeLeaderboard": "Voir le classement"
+  }
+,
+  "leaderboard": {
+    "leaderboardTitle": "Classement",
+    "selectCategoryLabel": "Choisir une catégorie",
+    "selectDifficultyLabel": "Choisir la difficulté",
+    "homeButton": "Accueil",
+    "replayButton": "Rejouer"
+  },
+  "settings":
+{
+  "title": "Paramètres",
+  "darkMode": "Mode sombre",
+  "music": "Musique de fond",
+  "language": "Langue",
+  "notificationHour": "Heure de notification"
+},
+  "notification": {
+    "title": "Rappel du quiz quotidien",
+    "body": "Il est temps de faire votre quiz du jour !"
+  }
+}

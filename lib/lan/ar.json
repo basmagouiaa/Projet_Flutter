@@ -1,0 +1,50 @@
+{
+  "home": {
+    "welcomePageTitle": "مسابقة المعرفة",
+    "contestantNameHint": "أدخل اسمك",
+    "numberOfQuestionsLabel": "عدد الأسئلة",
+    "selectCategoryLabel": "اختر الفئة",
+    "selectDifficultyLabel": "اختر مستوى الصعوبة",
+    "startGameButton": "بدء المسابقة",
+    "propos": "حول التطبيق",
+    "userNameEmptyError": "الرجاء إدخال اسمك أولاً",
+    "option1": "العلوم والطبيعة",
+    "option2": "الحيوانات",
+    "option3": "ألعاب الفيديو",
+    "option4": "الحاسوب",
+    "option5": "الرياضيات",
+    "option6": "المركبات",
+    "option7": "الرياضة",
+    "diff1": "سهل",
+    "diff2": "متوسط",
+    "diff3": "صعب"
+  },
+  "result": {
+    "quizResultsTitle": "نتائج الاختبار",
+    "score": "النتيجة",
+    "yourAnswer": "إجابتك",
+    "correctAnswer": "الإجابة الصحيحة",
+    "seeLeaderboard": "عرض الترتيب"
+  }
+,
+  "leaderboard": {
+    "leaderboardTitle": "لوحة المتصدرين",
+    "selectCategoryLabel": "اختر الفئة",
+    "selectDifficultyLabel": "اختر الصعوبة",
+    "homeButton": "الرئيسية",
+    "replayButton": "إعادة اللعب"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "darkMode": "الوضع الداكن",
+    "music": "موسيقى الخلفية",
+    "language": "اللغة",
+    "notificationHour": "وقت الإشعار"
+  },
+  "notification": {
+    "title": "تذكير اختبار يومي",
+    "body": "حان وقت إجراء اختبارك اليومي!"
+  }
+
+
+}
